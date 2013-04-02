@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'haml'
 require_relative 'routes/init'
 require_relative 'helpers/init'
 require_relative 'models/init'
